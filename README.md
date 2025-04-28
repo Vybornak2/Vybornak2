@@ -25,8 +25,8 @@ My key interests and drivers include:
 
 * **Continuous Learning:** Driven by curiosity, I am committed to constantly expanding my knowledge and technical skillset.
 * **Code Quality & Design:** I value writing clean, maintainable, and typed Python code, influenced by principles like SOLID.
-* **Algorithmic Challenges:** I genuinely enjoy tackling logical and mathematical puzzles, such as those found on [Project Euler](https://projecteuler.net/) ([My Repo](https://github.com/Vybornak2/ProjectEuler)).
-* **Mathematics & Physics:** Passionate about these subjects, I enjoy implementing their concepts and truly value applying them in my work.
+* **Algorithmic Challenges:** I genuinely enjoy tackling logical and mathematical puzzles, such as [Project Euler](https://projecteuler.net/) ([My Repo](https://github.com/Vybornak2/ProjectEuler)).
+* **Mathematics & Physics:** Passionate about these subjects and truly value applying them in my work.
   
 ---
 
@@ -83,7 +83,6 @@ Explore my coding journey, primarily in Python, with contributions across reposi
 
 <p align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Vybornak2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vybornak2&theme=dracula" alt="GitHub Streak Stats"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vybornak2&layout=compact&langs_count=6&theme=dracula" alt="Top Languages"/>
 </p>
 
