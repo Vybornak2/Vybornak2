@@ -41,7 +41,7 @@ My technical toolkit includes:
 #### ⚙️ CAE Specifics
 * **Scripting & Automation:** ANSA & META Post API Automation
 * **Solvers:** OptiStruct, Nastran, Abaqus
-* **Simulation Types:** Static Analysis, Fatigue, Crashworthiness, Linear & Non-linear FEA
+* **Simulation Types:** Static Analysis, Fatigue, Crash, Linear & Non-linear FEA
 
 #### 🔧 Other Languages
 * **Basics:** C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="16" style="vertical-align: middle;">, C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="16" style="vertical-align: middle;">, MATLAB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" height="16" style="vertical-align: middle;">, HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="16" style="vertical-align: middle;">, CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="16" style="vertical-align: middle;">
