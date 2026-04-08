@@ -20,6 +20,8 @@
 ---
 
 ## 📚 Interests
+<!-- TODO: fork training repository to separate Design templates-->
+<!-- TODO: Add LangComparison-->
 
 - Continuous Learning
 - Mathematics, Physics & Algorithmization
@@ -40,6 +42,7 @@
 ## ⚙️ Tech Stack & Skills
 
 ### 🧩 Languages
+<!-- TODO: update rust desc-->
 
 - **🐍 Python** (Advanced) - NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly, Pytest
 - **🦀 Rust** (Beginner) - PyO3, maturin
