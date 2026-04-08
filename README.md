@@ -1,68 +1,70 @@
 # Hi there 👋, I'm Jan Výborný!
+
 <a href="https://www.linkedin.com/in/vybornak2/" target="_blank"><img align="right" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
 
 ---
 
-* 📍 Based in: **Prague, Czechia 🇨🇿**
-* 👨‍💻 Role: **Freelance Python Developer & CAE Engineer**
-* 🎯 Main Focus: **Scientific Computing, CAE Automation, Algorithm Development**
+- **Based in:** Prague, Czechia 🇨🇿
+- **Role:** Python/Rust Developer, CAE Engineer, FABER WG6 Lead
+- **Main Focus:** CAE/FEA Automation, Python/Rust Desktop Apps, [FatPy](https://github.com/Vybornak2/FatPy) Development
 
 ---
 
 ## 🚀 Key Activities & Projects
 
-My primary activities involve:
-
-* **CAE Automation:** Streamlining engineering simulations and workflows through scripting with **ANSA & META Post APIs**.
-* **Developing [FatPy](https://github.com/Vybornak2/FatPy):** Building an open-source Python library focused on **structural durability** analysis and fatigue evaluation.
-* **Leading [FABER COST Action (CA21155)](https://faber-cost.eu/) WG6:** Coordinating Working Group 6 for **FABER (Fatigue Benchmark Repository)** – a project aiming to create tools for the engineering/scientific community to benchmark/evaluate material fatigue.
+- **CAE/FEA Automation:** Streamlining engineering simulations and workflows with **ANSA & META Post APIs**.
+- **FatPy Development:** [FatPy](https://github.com/FABERORG/FatPy) is Open-source Python library for **durability and fatigue analysis**
+- **FABER WG6 Lead:** [FABER COST Action (CA21155)](https://faber-cost.eu/) collaboration, research and development for **FatPy**
+- **Study:** Mathematical modeling at Czech Technical University in Prague
 
 ---
 
-## 🌱 Interests & Learning
+## 📚 Interests
 
-My key interests and drivers include:
+- Continuous Learning
+- Mathematics, Physics & Algorithmization
+    - [TermoDynamics](https://github.com/Vybornak2/TDPriklady)
+    - [C++ Numerics](https://github.com/Vybornak2/numerical_methods_for_engineers_I)
+    - [Project Euler](https://github.com/Vybornak2/ProjectEuler)
+    - [Mathematics for Mechanics](https://github.com/Vybornak2/matematics_for_mechanics)
 
-* **Continuous Learning:** Driven by curiosity, I am committed to constantly expanding my knowledge and technical skillset.
-* **Code Quality & Design:** I value writing clean, maintainable, and typed Python code, influenced by principles like SOLID.
-* **Algorithmic Challenges:** I genuinely enjoy tackling logical and mathematical puzzles, such as [Project Euler](https://projecteuler.net/) ([My Repo](https://github.com/Vybornak2/ProjectEuler)).
-* **Mathematics & Physics:** Passionate about these subjects and truly value applying them in my work.
-  
+- Code Quality & Design Patterns 
+    - [Project Template](https://github.com/Vybornak2/project_template)
+    - [My take on Design Patterns](https://github.com/Vybornak2/Training/blob/main/index.md#design-patterns)
+
+- Config & automation
+    - [DotFiles](https://github.com/Vybornak2/dotfiles)
+
 ---
 
-## 🛠️ Tech Stack & Skills
+## ⚙️ Tech Stack & Skills
 
-My technical toolkit includes:
+### 🧩 Languages
 
-#### 🐍 Python Expertise
-* **Scientific Computing:** NumPy, Pandas, SciPy, Matplotlib, Plotly, Seaborn
-* **Environment, Quality & Tooling:** uv, Pre-commit, Mypy, Ruff, Pytest, MkDocs
+- **🐍 Python** (Advanced) - NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly, Pytest
+- **🦀 Rust** (Beginner) - PyO3, maturin
+- **🐳 C++** (Beginner) - BLAS, LAPACK, PETSc
+- **🌑 Lua** (Beginner) - NeoVim config
+- **⚡ Bash** (Beginner) - scripting, automation, CLI tools
+- **📦 Docker** (Beginner) - development environments, testing and CI/CD pipelines
+- **🌐 Web** (Beginner) - Django, FastAPI, HTML, CSS, Bootstrap
+- **💾 DB** (Beginner) - SQLite, SQLAlchemy
+- **📝 Markdown**
 
-#### ⚙️ CAE Specifics
-* **Scripting & Automation:** ANSA & META Post API Automation
-* **Solvers:** OptiStruct, Nastran, Abaqus
-* **Simulation Types:** Static Analysis, Fatigue, Crash, Linear & Non-linear FEA
+### 🛠️ Tools & Platforms
+- **Python tools**: UV, Ruff, TY, Mypy, Pyright, Pre-commit, MkDocs
+- **Version Control:** Git, GitHub
+- **Editors:** NeoVim [Config](https://github.com/Vybornak2/dotfiles/tree/main/nvim), VS Code [Config](https://github.com/Vybornak2/dotfiles/blob/main/settings.json)
+- **Operating Systems:** Linux (PopOS, Ubuntu, Fedora), Windows
+- **CI/CD:** GitHub Actions [FatPy CI](https://github.com/Vybornak2/FatPy/tree/main/.github/workflows)
+- **Docs:** MkDocs [FatPy Docs](https://faberorg.github.io/FatPy/)
+- **Containerization:** Docker (Basics)
 
-#### 🔧 Other Languages
-* **Basics:** C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="16" style="vertical-align: middle;">, C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="16" style="vertical-align: middle;">, MATLAB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" height="16" style="vertical-align: middle;">, HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="16" style="vertical-align: middle;">, CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="16" style="vertical-align: middle;">
-* **Learning:** Rust <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="Rustacean (Ferris)" height="16" style="vertical-align: middle;"> ([Rustlings](https://github.com/rust-lang/rustlings))
+### 🧮 CAE / FEA
 
-#### 🛠️ Tools & Platforms
-* **Version Control:** Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="16" style="vertical-align: middle;">, GitHub <a href="https://github.com/Vybornak2"><img src="https://img.shields.io/badge/_-%20?style=flat&logo=github&logoColor=white&color=181717" alt="GitHub" height="16" style="vertical-align: middle;"></a>
-* **Editors:** VS Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code Icon" width="16" height="16" style="vertical-align: middle;">, Vim <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Vim Icon" width="16" height="16" style="vertical-align: middle;"> (Vim Enthusiast)
-* **Operating Systems:** Windows <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" height="16" style="vertical-align: middle;">, Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="16" style="vertical-align: middle;">
-* **CI/CD:** GitHub Actions
-* **Containerization:** Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="16" style="vertical-align: middle;"> (Basic Understanding)
-
-#### 💾 Databases
-* **Relational:** SQLite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" height="16" style="vertical-align: middle;">
-
-#### 🌐 Web Development (Basic)
-* **Technologies:** HTML5, CSS3, Bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="16" style="vertical-align: middle;">, Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" height="16" style="vertical-align: middle;"> (Brief experience)
-
-#### 💡 Concepts & Background
-* **Software Engineering:** Software Architecture, Design Patterns (**GoF**), **SOLID Principles**, Test Automation, OOP, Type Hinting
-* **Domain Knowledge:** Mechanical Engineering, Structural Mechanics, Numerical Mathematics, Fatigue Mechanics, Physics, Algorithm Design
+- **Automation:** ANSA & META Post APIs
+- **Solvers:** OptiStruct, Nastran, Abaqus
+- **Simulation types:** Static, Modal, Fatigue, Crash, Linear & Non-linear
 
 ---
 
@@ -70,20 +72,20 @@ My technical toolkit includes:
 
 I'm always interested in connecting with others in the field!
 
-* **Email:** [jan.vyborny2@gmail.com](mailto:jan.vyborny2@gmail.com)
-* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/vybornak2/)
+- **Email:** [jan.vyborny2@gmail.com](mailto:jan.vyborny2@gmail.com)
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/vybornak2/)
 
-Feel free to reach out if you'd like to discuss **open-source scientific computing**, **CAE automation**, **API design**, **Python best practices**, or **structural durability/fatigue mechanics**. I'm open to collaboration opportunities.
+Feel free to reach out if you'd like to discuss **CAE/FEA automation**, **FatPy/FABER development** or any other topics. I'm open to collaboration and consulting.
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-Explore my coding journey, primarily in Python, with contributions across repositories. Most development happens in `.py` files, with occasional Jupyter Notebook usage for prototyping.
-
 <p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Vybornak2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vybornak2&layout=compact&langs_count=6&theme=dracula" alt="Top Languages"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vybornak2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vybornak2&layout=compact&langs_count=6&theme=dracula&hide=jupyter%20notebook" alt="Top Languages"/>
 </p>
 
----
+_Note: Jupyter notebooks are hidden._
+
