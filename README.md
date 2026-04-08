@@ -19,26 +19,6 @@
 
 ---
 
-## 📚 Interests
-<!-- TODO: fork training repository to separate Design templates-->
-<!-- TODO: Add LangComparison-->
-
-- Continuous Learning
-- Mathematics, Physics & Algorithmization
-    - [TermoDynamics](https://github.com/Vybornak2/TDPriklady)
-    - [C++ Numerics](https://github.com/Vybornak2/numerical_methods_for_engineers_I)
-    - [Project Euler](https://github.com/Vybornak2/ProjectEuler)
-    - [Mathematics for Mechanics](https://github.com/Vybornak2/matematics_for_mechanics)
-
-- Code Quality & Design Patterns 
-    - [Project Template](https://github.com/Vybornak2/project_template)
-    - [My take on Design Patterns](https://github.com/Vybornak2/Training/blob/main/index.md#design-patterns)
-
-- Config & automation
-    - [DotFiles](https://github.com/Vybornak2/dotfiles)
-
----
-
 ## ⚙️ Tech Stack & Skills
 
 ### 🧩 Languages
@@ -68,6 +48,26 @@
 - **Automation:** ANSA & META Post APIs
 - **Solvers:** OptiStruct, Nastran, Abaqus
 - **Simulation types:** Static, Modal, Fatigue, Crash, Linear & Non-linear
+
+---
+
+## 📚 Interests
+<!-- TODO: fork training repository to separate Design templates-->
+<!-- TODO: Add LangComparison-->
+
+- Continuous Learning
+- Mathematics, Physics & Algorithmization
+    - [TermoDynamics](https://github.com/Vybornak2/TDPriklady)
+    - [C++ Numerics](https://github.com/Vybornak2/numerical_methods_for_engineers_I)
+    - [Project Euler](https://github.com/Vybornak2/ProjectEuler)
+    - [Mathematics for Mechanics](https://github.com/Vybornak2/matematics_for_mechanics)
+
+- Code Quality & Design Patterns 
+    - [Project Template](https://github.com/Vybornak2/project_template)
+    - [My take on Design Patterns](https://github.com/Vybornak2/Training/blob/main/index.md#design-patterns)
+
+- Config & automation
+    - [DotFiles](https://github.com/Vybornak2/dotfiles)
 
 ---
 
